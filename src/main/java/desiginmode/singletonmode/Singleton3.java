@@ -39,5 +39,4 @@ public class Singleton3 {
     //        return (Singleton3) threadLocal.get();
     //    }
 
-
 }
