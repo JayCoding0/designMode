@@ -5,7 +5,8 @@ package desiginmode.templatemethod;
  * @date 2019/5/22 22:13
  * @description
  */
-public class StringDisplay extends AbstractDisplay {
+public class
+StringDisplay extends AbstractDisplay {
     private String ch;
 
     public StringDisplay(String ch) {
