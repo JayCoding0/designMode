@@ -11,7 +11,7 @@ public abstract class Entry {
     public abstract int getSize();
 
     /**
-     * 子类去调用此方法时会抛出异常,父类也可以不规定此方法,文件夹类独有方法,又构成组合关系.
+     * 子类去调用此方法时会抛出异常,父类也可以不规定此方法,文件夹类独有方法,又构成组合关系。
      * @param entry
      * @return
      * @throws FileTreatmentException
