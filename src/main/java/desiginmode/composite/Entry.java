@@ -37,7 +37,6 @@ public abstract class Entry {
 
     @Override
     public String toString() {
-
         return getName() + "(" + getSize() + ")";
     }
 
