@@ -6,6 +6,7 @@ package desiginmode.templatemethod;
  * @description
  */
 public class CharDisplay extends AbstractDisplay {
+
     private char ch;
 
     public CharDisplay(char ch) {
@@ -21,6 +22,7 @@ public class CharDisplay extends AbstractDisplay {
 
     @Override
     public void print() {
+
         System.out.print(ch);
     }
 
