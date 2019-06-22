@@ -27,6 +27,7 @@ public abstract class Entry {
     public void printList() {
         // 显示条目
         printList("");
+
     }
 
     /**
