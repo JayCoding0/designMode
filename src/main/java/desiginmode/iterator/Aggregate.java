@@ -23,5 +23,4 @@ public interface Aggregate <T>{
      * @return 迭代器对象
      * */
     Iterator<T>  iterator();
-
 }
