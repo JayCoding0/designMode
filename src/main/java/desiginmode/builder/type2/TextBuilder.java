@@ -48,6 +48,7 @@ public class TextBuilder implements Builder {
     }
 
     public String getResult() {
-        return buffer.toString(); //变化为String
+        //变化为String
+        return buffer.toString();
     }
 }
