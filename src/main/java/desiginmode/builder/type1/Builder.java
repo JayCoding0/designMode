@@ -6,7 +6,7 @@ package desiginmode.builder.type1;
  * @description 声明编写文档方法的抽象类
  */
 public abstract class Builder {
-    
+
     public abstract void makeTitle(String title);
 
     public abstract void makeString(String str);
